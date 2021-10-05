@@ -19,14 +19,14 @@
     "skills": {
       "icons": [
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain colored",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain colored",
           "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
         },
         {
           "name": "React",
@@ -34,12 +34,25 @@
           "level": "80"
         },
         {
-          "name": " \n",
-          "class": "devicon-java-plain-wordmark",
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "80"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "Mongo",
+          "class": "devicon-mongodb-plain colored",
           "level": "80"
         }
-
-        
       ]
     }
   }
